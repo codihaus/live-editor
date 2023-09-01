@@ -15,8 +15,8 @@
 
 ### Live Demo:
 
-- [https://live-editor.codihaus.io](https://live-editor.codihaus.io) (To be setup)
-- Accessing the page with paramemter to login: [https://live-editor.codihaus.io/?live_authentication=true](https://live-editor-seven.vercel.app)
+- https://live-editor-seven.vercel.app
+- Accessing the page with paramemter to login: https://live-editor-seven.vercel.app
 - It will require to login with user/password: contact@codihaus.com / !@#CDH2020!@#
 - Start trying out the features
 
